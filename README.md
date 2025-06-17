@@ -24,7 +24,7 @@ LeafSnap+ is a deep learning-based web application that identifies **medicinal p
 
 ## 🖼 Sample Screenshot
 
-![LeafSnap+ Screenshot](https://user-images.githubusercontent.com/your-screenshot-link.png) <!-- Optional -->
+![image](https://github.com/user-attachments/assets/a3bc841f-643e-4e9e-b8dc-722f1888573c)
 
 ---
 
